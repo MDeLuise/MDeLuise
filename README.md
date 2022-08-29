@@ -1,9 +1,9 @@
 # Hello, folks! <img src="wave.gif" width="30px" height="30px" />
-My name is Massimiliano De Luise and I'm a software developer.
+My name is Massimiliano De Luise and I'm a software engineer.
 
 I'm from Italy, living in Udine. 🇮🇹
 
-Currently I'm working on [Kapua](https://github.com/eclipse/kapua), and as side project on [dummy-server](https://github.com/MDeLuise/dummy-server).
+Currently I'm working on [kapua](https://github.com/eclipse/kapua), and as side project on [go-log](https://github.com/MDeLuise/go-log).
 
 
 ## 🔧 Technologies & Tools
