@@ -3,7 +3,7 @@ My name is Massimiliano De Luise and I'm a software engineer.
 
 I'm from Italy, living in Udine. 🇮🇹
 
-Currently I'm working on [kapua](https://github.com/eclipse/kapua), and as side project on [go-log](https://github.com/MDeLuise/go-log).
+Currently I'm working on [kapua](https://github.com/eclipse/kapua), and as side project on [personal-finance-tracker](https://github.com/MDeLuise/personal-finance-tracker).
 
 
 ## 🔧 Technologies & Tools
