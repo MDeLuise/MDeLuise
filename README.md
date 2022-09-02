@@ -36,10 +36,10 @@ Currently I'm working on [kapua](https://github.com/eclipse/kapua), and as side 
 
 ## 📈 GitHub Stats
 <a href="https://github.com/MDeLuise/MDeLuise">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDeLuise&count_private=true&theme=dracula&langs_count=3&hide=gherkin" alt="Massimiliano De Luise's top languages"/>
+  <img align="center" src="https://github-readme-stats-xi-seven-99.vercel.app/api/top-langs/?username=MDeLuise&count_private=true&theme=dracula&langs_count=3&hide=gherkin" alt="Massimiliano De Luise's top languages"/>
 </a>
 <a href="https://github.com/MDeLuise/MDeLuise">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MDeLuise&show_icons=true&include_all_commits=true&theme=dracula&count_private=true&hide=stars" alt="Massimiliano De Luise's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-xi-seven-99.vercel.app/api?username=MDeLuise&show_icons=true&include_all_commits=true&theme=dracula&count_private=true&hide=stars" alt="Massimiliano De Luise's GitHub Stats" />
 </a>
 
 
