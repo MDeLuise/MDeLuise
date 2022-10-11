@@ -1,48 +1,47 @@
-# Hello, folks! <img src="wave.gif" width="30px" height="30px" />
-My name is Massimiliano De Luise and I'm a software engineer.
+[![Header](https://raw.githubusercontent.com/MDeLuise/MDeLuise/master/assets/banner.png "Header")](#)
 
-I'm from Italy, living in Udine. 🇮🇹
+[![Page Badge](https://img.shields.io/badge/Personal%20Page-Profile-blue)](#)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=0D76A8)](https://twitter.com/MsDeLuise)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/massimiliano-de-luise-370464209)
 
-Currently I'm working on [kapua](https://github.com/eclipse/kapua), and as side project on [personal-finance-tracker](https://github.com/MDeLuise/personal-finance-tracker).
+
+Hey there <img src="https://raw.githubusercontent.com/MDeLuise/MDeLuise/master/assets/wave.gif" width="30px" height="30px" />
+
+I'm Max, Software Engineer based in Udine, Italy. Currently working as developer in a edge computing company.
+
+I love open-source and self-hosted solutions. I'm a full stack developer mostly focused on backend development.
 
 
-## 🔧 Technologies & Tools
-<p>
-<img alt="macOS" src="https://img.shields.io/badge/-macOS-0e97ff?style=flat-square&logo=Apple&logoColor=white" />
-<img alt="git" src="https://img.shields.io/badge/-Git-f95252?style=flat-square&logo=git&logoColor=white" />
-<img alt="Github" src="https://img.shields.io/badge/-Github-3b3b3b?style=flat-square&logo=Github&logoColor=white" />
-<img alt="ZSH" src="https://img.shields.io/badge/-Zsh-26262e?style=flat-square&logo=GNU-Bash&logoColor=white" />
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-48c5ff?style=flat-square&logo=docker&logoColor=white" />
-<img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-004ec0?style=flat-square&logo=Kubernetes&logoColor=white" />
-<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-4792ff?style=flat-square&logo=github-actions&logoColor=white" />
-<img alt="Java" src="https://img.shields.io/badge/-Java-ff6f20?style=flat-square&logo=coffeeScript&logoColor=white" />
-<img alt="Maven" src="https://img.shields.io/badge/-Maven-ff3420?style=flat-square&logo=Apache-Maven&logoColor=white" />
-<img alt="Spring" src="https://img.shields.io/badge/-Spring-26c62f?style=flat-square&logo=Spring&logoColor=white" />
-<img alt="IntelliJ" src="https://img.shields.io/badge/-IntelliJ-b43bbf?style=flat-square&logo=IntelliJ-IDEA&logoColor=white" />
-<img alt="Go" src="https://img.shields.io/badge/-Go-00d0ff?style=flat-square&logo=go&logoColor=white" />
-<img alt="Sass" src="https://img.shields.io/badge/-Sass-f25ee7?style=flat-square&logo=sass&logoColor=white" />
-<img alt="Javascript" src="https://img.shields.io/badge/-Javascript-fee934?style=flat-square&logo=javascript&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/-React-34d6fe?style=flat-square&logo=react&logoColor=white" />
-<img alt="Html5" src="https://img.shields.io/badge/-HTML5-fe7534?style=flat-square&logo=html5&logoColor=white" />
-<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-002cff?style=flat-square&logo=MySQL&logoColor=white" />
-<img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-00eebe?style=flat-square&logo=Elastic&logoColor=white" />
-<img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-fb3308?style=flat-square&logo=brave&logoColor=white" />
-<img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-e20404?style=flat-square&logo=Jenkins&logoColor=white" />
-<img alt="Sonar" src="https://img.shields.io/badge/-SonarCloud-fd4803?style=flat-square&logo=SonarCloud&logoColor=white" />
-<img alt="Netlify" src="https://img.shields.io/badge/-Netlify-03d3fd?style=flat-square&logo=Netlify&logoColor=white" />
-<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-a603fd?style=flat-square&logo=heroku&logoColor=white" />
-</p>
-
+## 📌 Pinned Repositories
+[![kapua](https://github-readme-stats-xi-seven-99.vercel.app/api/pin/?username=mdeluise&repo=kapua&title_color=E3B23C&text_color=ffffff&icon_color=0D76A8&bg_color=282A36)](https://github.com/mdeluise/kapua)
+[![tracky](https://github-readme-stats-xi-seven-99.vercel.app/api/pin/?username=mdeluise&repo=tracky&title_color=E3B23C&text_color=ffffff&icon_color=0D76A8&bg_color=282A36)](https://github.com/mdeluise/tracky)
+[![tracky-client](https://github-readme-stats-xi-seven-99.vercel.app/api/pin/?username=mdeluise&repo=tracky-client&title_color=E3B23C&text_color=ffffff&icon_color=0D76A8&bg_color=282A36)](https://github.com/mdeluise/tracky-client)
 
 ## 📈 GitHub Stats
 <a href="https://github.com/MDeLuise/MDeLuise">
-  <img align="center" src="https://github-readme-stats-xi-seven-99.vercel.app/api/top-langs/?username=MDeLuise&count_private=true&theme=dracula&langs_count=3&hide=gherkin" alt="Massimiliano De Luise's top languages"/>
+  <img align="center" src="https://github-readme-stats-xi-seven-99.vercel.app/api/top-langs/?username=MDeLuise&count_private=true&langs_count=3&hide=gherkin&title_color=E3B23C&text_color=ffffff&icon_color=0D76A8&bg_color=282A36" alt="Massimiliano De Luise's top languages"/>
 </a>
 <a href="https://github.com/MDeLuise/MDeLuise">
-  <img align="center" src="https://github-readme-stats-xi-seven-99.vercel.app/api?username=MDeLuise&show_icons=true&include_all_commits=true&theme=dracula&count_private=true&hide=stars" alt="Massimiliano De Luise's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-xi-seven-99.vercel.app/api?username=MDeLuise&show_icons=true&include_all_commits=true&count_private=true&hide=stars&title_color=E3B23C&text_color=ffffff&icon_color=0D76A8&bg_color=282A36" alt="Massimiliano De Luise's GitHub Stats" />
 </a>
 
+## 💼 Skills
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=Typescript&logoColor=white&color=0D76A8)
 
-## ✉️ Where to find me
-<p><a href="https://github.com/MDeLuise" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/MsDeLuise" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://it.linkedin.com/in/massimiliano-de-luise-370464209" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-</p>
+![](https://img.shields.io/badge/Tools-Zsh-informational?style=flat&logo=GNU-Bash&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=Apache-Maven&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=Github&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=Jenkins&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Tools-ElastichSearch-informational?style=flat&logo=Elastic&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=0D76A8)
