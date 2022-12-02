@@ -7,9 +7,10 @@
 
 Hey there <img src="https://raw.githubusercontent.com/MDeLuise/MDeLuise/master/assets/wave.gif" width="30px" height="30px" />
 
-I'm Max, Software Engineer based in Udine, Italy. Currently working as developer in a edge computing company.
+I'm Max, Software Engineer based in Udine, Italy. Currently working as a developer in an edge computing company.
 
-I love open-source and self-hosted solutions. I'm a full stack developer mostly focused on backend development.
+I'm a privacy advocate who loves open source and self hosted solutions.
+I like focusing on projects that will advance my abilities while also being useful in real life. Typically, I begin the design-programming process with the thinking _"it would be useful if a system exists that can help me doing this"_.
 
 
 ## 📌 Pinned Repositories
@@ -28,7 +29,6 @@ I love open-source and self-hosted solutions. I'm a full stack developer mostly 
 ## 💼 Skills
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=0D76A8)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=0D76A8)
