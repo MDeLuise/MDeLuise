@@ -9,8 +9,10 @@ Hey there <img src="https://raw.githubusercontent.com/MDeLuise/MDeLuise/master/a
 
 I'm Max, Software Engineer based in Udine, Italy. Currently working as a developer in an edge computing company.
 
-I'm a privacy advocate who loves open source and self hosted solutions.
-I like focusing on projects that will advance my abilities while also being useful in real life. Typically, I begin the design-programming process with the thinking _"it would be useful if a system exists that can help me doing this"_.
+I'm a privacy advocate who loves open source and self hosted solutions. This motivates me to learn more about the underlaying concepts and technologies.
+
+I like focusing on projects that will advance my abilities while also being useful in real life.
+Typically, I begin the design-programming process with the thinking _"it would be useful if a system exists that can help me doing this"_.
 
 
 ## 📌 Pinned Repositories
