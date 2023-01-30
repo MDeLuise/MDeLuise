@@ -16,9 +16,11 @@ Typically, I begin the design-programming process with the thinking _"it would b
 
 
 ## 📌 Pinned Repositories
-[![kapua](https://github-readme-stats-xi-seven-99.vercel.app/api/pin/?username=mdeluise&repo=kapua&title_color=E3B23C&text_color=ffffff&icon_color=0D76A8&bg_color=282A36)](https://github.com/mdeluise/kapua)
-[![tracky](https://github-readme-stats-xi-seven-99.vercel.app/api/pin/?username=mdeluise&repo=tracky&title_color=E3B23C&text_color=ffffff&icon_color=0D76A8&bg_color=282A36)](https://github.com/mdeluise/tracky)
-[![tracky-client](https://github-readme-stats-xi-seven-99.vercel.app/api/pin/?username=mdeluise&repo=tracky-client&title_color=E3B23C&text_color=ffffff&icon_color=0D76A8&bg_color=282A36)](https://github.com/mdeluise/tracky-client)
+[![Kapua](https://github-readme-stats-xi-seven-99.vercel.app/api/pin/?username=mdeluise&repo=kapua&title_color=E3B23C&text_color=ffffff&icon_color=0D76A8&bg_color=282A36)](https://github.com/mdeluise/kapua)
+[![Every Money](https://github-readme-stats-xi-seven-99.vercel.app/api/pin/?username=mdeluise&repo=every-money&title_color=E3B23C&text_color=ffffff&icon_color=0D76A8&bg_color=282A36)](https://github.com/mdeluise/tracky)
+[![Every Money client](https://github-readme-stats-xi-seven-99.vercel.app/api/pin/?username=mdeluise&repo=every-money-client&title_color=E3B23C&text_color=ffffff&icon_color=0D76A8&bg_color=282A36)](https://github.com/mdeluise/tracky)
+[![Tracky](https://github-readme-stats-xi-seven-99.vercel.app/api/pin/?username=mdeluise&repo=tracky&title_color=E3B23C&text_color=ffffff&icon_color=0D76A8&bg_color=282A36)](https://github.com/mdeluise/tracky)
+[![Tracky client](https://github-readme-stats-xi-seven-99.vercel.app/api/pin/?username=mdeluise&repo=tracky-client&title_color=E3B23C&text_color=ffffff&icon_color=0D76A8&bg_color=282A36)](https://github.com/mdeluise/tracky-client)
 
 ## 📈 GitHub Stats
 <a href="https://github.com/MDeLuise/MDeLuise">
